@@ -66,22 +66,22 @@ main {
     padding-bottom: var(--padding-lg);  
 }
 
-main a {
+a {
     color: var(--link-color);
     text-decoration: underline;
     text-underline-position: under;
     text-underline-offset: 0.0625rem;
 }
 
-main a:focus,
-main a:active {
+a:focus,
+a:active {
     background: var(--link-color);
-    color: #fff;
+    color: var(--color);
     outline: 0.1875rem solid var(--link-color);
     outline-offset: 0;
 }
 
-main a:hover {
+a:hover {
     text-decoration-thickness: 0.15rem;
 }
 
@@ -207,7 +207,8 @@ ul {
 }
 
 .main-content {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
     gap: var(--layout-gap-lg);
 }
 
@@ -223,6 +224,10 @@ article {
     gap: var(--layout-gap-sm);
     padding-left: var(--padding-md);
     padding-right: var(--padding-md);
+}
+
+.able-status-bar {
+    box-sizing: content-box;
 }
 
 

@@ -42,7 +42,7 @@
     --line-height: calc(2px + 2ex + 2px);
     /* Colours */
     /* --link-color: #1e90ff; */
-    --link-color: #2546F0;
+    --link-color: var(--background-color);
 
 
     --background-color: springgreen;
