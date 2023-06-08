@@ -45,9 +45,11 @@
     --link-color: var(--background-color);
 
 
-    --background-color: springgreen;
-    --color: #4d1847    ;   
-
+    --old-background-color: springgreen;
+    --old-color: #4d1847;   
+    --background-color: #cddb91;
+    --color: #5426f9;   
+    
 
 
 }
