@@ -16,13 +16,12 @@ html {
 body {
     background-color: var(--background-color);
     color: var(--color);
-    /* padding: var(--padding-md); */
     line-height: calc(2px + 2ex + 2px);
 }
 
 header {
-    background-color: var(--color);
-    color: var(--background-color);
+    background-color: var(--blue);
+    color: var(--snowy-mint);
 }
 
 nav {
@@ -30,6 +29,10 @@ nav {
     justify-content: space-between;
     align-items: center;    
     padding: var(--padding-sm);
+}
+
+nav a {
+    --link-color: var(--snowy-mint);
 }
 
 footer {
@@ -41,9 +44,9 @@ footer p {
     padding: var(--padding-sm);
 }
 
-:is(body, .block-flow) > * + * {
+/* :is(body, .block-flow) > * + * {
     margin-block-start: var(--block-flow-sm);
-}
+} */
 
 section {
     max-width: 70vw;
@@ -62,19 +65,21 @@ main {
     flex-direction: column;
     gap: var(--layout-gap-md);
     padding: var(--padding-lg);
-    padding-top: var(--padding-sm);
+    padding-top: var(--padding-md);
     padding-bottom: var(--padding-lg);  
+}
+
+main.articles-main {
+    background-color: #fff;
 }
 
 a {
     color: var(--link-color);
-    text-decoration: underline;
-    text-underline-position: under;
-    text-underline-offset: 0.0625rem;
+    font-size: var(--body-2-size);
 }
 
-a:focus,
-a:active {
+a:not(#logo):focus,
+a:not(#logo):active {
     background: var(--link-color);
     color: var(--color);
     outline: 0.1875rem solid var(--link-color);
@@ -82,6 +87,9 @@ a:active {
 }
 
 a:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+    text-underline-offset: 0.0625rem;
     text-decoration-thickness: 0.15rem;
 }
 
@@ -124,54 +132,8 @@ nav div {
     color: #fff;
 }
 
-/* #main-nav {
-    display: flex;
-    justify-content: space-between;
-}
-
-#main-nav ul {
-    display: flex;
-    gap: var(--padding-sm);
-}
-
-#main-nav ul li {
-    width: min-content;
-    border-radius: 0.0625rem;
-    text-align: center;
-} */
-
-/* 
-
-#main-nav {
-    display: flex;
-    justify-content: space-between;
-}
-
-#main-nav ul {
-    display: flex;
-    gap: var(--padding-sm);
-}
-
-#main-nav ul li {
-    width: min-content;
-    border-radius: 0.0625rem;
-    text-align: center;
-}
-
-#main-nav ul li:focus-within {
-    outline: var(--link-color) 0.125rem solid;
-    color: #fff;
-    background-color: var(--link-color)
-}
-
-*/
-
-#logo, #logo h2 {
-    color: black;
-    font-family: 'UrChloGC', sans-serif;
-    font-weight: 600;
+#logo, #logo a {
     font-size: var(--subheading-2-size);
-    line-height: var(--line-height);
     text-decoration: none;
 } 
 
@@ -222,8 +184,15 @@ article {
     display: flex;
     flex-direction: column;
     gap: var(--layout-gap-sm);
-    padding-left: var(--padding-md);
-    padding-right: var(--padding-md);
+}
+
+@media screen and (width <= 1000px) {
+    
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--layout-gap-md);
+}
 }
 
 .able-status-bar {
