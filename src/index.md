@@ -5,8 +5,8 @@ layout: "base.njk"
 
 It's working
 
-{% for article in collections.articles %}
+{% for page in collections.pages %}
 
-- [{{ article.data.title}}]({{ article.url }})
+- [{{ page.data.title}}]({{ page.url }})
 
 {% endfor %}
