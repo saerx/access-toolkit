@@ -1,5 +1,40 @@
 ---
 layout: base.njk
 ---
-
-<article>{{ content | safe}}</article>
+<h1>Introduction</h1>
+<div class="main-content">
+<aside>
+    <h2>Audio</h2>
+    <audio 
+        id="audio1"
+        data-able-player preload="auto" 
+        playsinline
+        data-speed-icons="animals">
+        <source type="audio/ogg" src="media/skateboard.ogg"/>
+        <source type="audio/mpeg" src="media/skateboard.mp3"/>
+    </audio>
+    <h2>BSL</h2>
+    <audio 
+        id="audio1"
+        data-able-player preload="auto" 
+        playsinline
+        data-speed-icons="animals">
+        <source type="audio/ogg" src="media/skateboard.ogg"/>
+        <source type="audio/mpeg" src="media/skateboard.mp3"/>
+    </audio>
+    <h2>ISL</h2>
+    <audio 
+        id="audio1"
+        data-able-player preload="auto" 
+        playsinline
+        data-speed-icons="animals">
+        <source type="audio/ogg" src="media/skateboard.ogg"/>
+        <source type="audio/mpeg" src="media/skateboard.mp3"/>
+    </audio>
+</aside>
+<article>
+    <h2>Text</h2>
+    <p>
+        {{ content | safe}}
+    </p>
+</article>
