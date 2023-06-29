@@ -1,5 +1,6 @@
 ---
 title: Other resources
+date: 2023-06-06
 ---
 ### Other resources
 

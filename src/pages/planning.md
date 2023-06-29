@@ -1,5 +1,6 @@
 ---
 title: Planning
+date: 2023-06-02
 ---
 ### Planning
 
