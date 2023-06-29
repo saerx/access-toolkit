@@ -76,14 +76,18 @@ section {
 }
 
 h1 {
-    font-size: var(--title-size);
+    font-size: var(--headline-size);
 }
 
 h2 {
-    font-size: var(--subheading-2-size);
+    font-size: var(--title-size);
 }
 
 h3 {
+    font-size: var(--subheading-2-size);
+}
+
+h4 {
     font-size: var(--subheading-1-size);
 }
 
