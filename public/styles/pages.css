@@ -1,0 +1,21 @@
+body {
+    --background-color: #fff;
+}
+
+
+main {
+    --background-color: #fff;
+    --color: var(--background-color);
+}
+
+main ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: var(--padding-sm);
+    gap: var(--layout-gap-sm);
+}
+
+
+main a:visited {
+    color: var(--visited-color);
+}

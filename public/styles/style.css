@@ -1,0 +1,253 @@
+@font-face {
+    font-family: 'sylexiad';
+    src: url('./SylexiadSansSpacedMed.woff') format('woff2');
+}
+
+* {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-weight: 400;
+}
+
+body,
+html {
+    height: 100%
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--color);
+    line-height: calc(2px + 2ex + 2px);
+}
+
+header {
+    --link-color: var(--snowy-mint);
+
+    background-color: var(--blue);
+    color: var(--snowy-mint);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    padding: var(--padding-sm);
+    
+}
+
+nav li{
+    list-style-type: none;
+}
+
+nav#main-nav {
+    display: contents;
+
+}
+
+
+#home-nav ul{
+    --gap: var(--layout-gap-md);
+    --min: 30ch;
+    --link-color: var(--blue);
+
+    display: grid;
+    gap: var(--gap);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--min)), 1fr));
+}
+
+#home-nav li {
+    aspect-ratio: 1;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    border: 0.25rem solid var(--color);
+}
+
+#home-nav li a:focus,
+#home-nav li a:active {
+    color: var(--snowy-mint);
+}
+
+footer {
+    position: sticky;
+    top: 100vh;
+}
+
+footer p {
+    padding: var(--padding-sm);
+}
+
+/* :is(body, .block-flow) > * + * {
+    margin-block-start: var(--block-flow-sm);
+} */
+
+section {
+    max-width: 70vw;
+}
+
+h1 {
+    font-size: var(--headline-size);
+}
+
+h2 {
+    font-size: var(--title-size);
+}
+
+h3 {
+    font-size: var(--subheading-2-size);
+}
+
+h4 {
+    font-size: var(--subheading-1-size);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: var(--layout-gap-md);
+    padding: var(--padding-lg);
+    padding-top: var(--padding-sm);
+    padding-bottom: var(--padding-lg);  
+}
+
+main.articles-main {
+    background-color: #fff;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: underline;
+}
+
+a:not(#logo):focus,
+a:not(#logo):active {
+    background: var(--link-color);
+    color: var(--color);
+    outline: 0.1875rem solid var(--link-color);
+    outline-offset: 0;
+}
+
+
+a:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+    text-underline-offset: 0.0625rem;
+    text-decoration-thickness: 0.15rem;
+}
+
+#main-nav ul {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    font-size: var(--subheading-1-size);
+}
+
+#logo, #logo a {
+    font-size: var(--subheading-2-size);
+    text-decoration: none;
+} 
+
+#logo:focus,
+#logo:hover {
+    border-radius: var(--border-radius-md);;
+    outline: 0.2rem solid var(--link-color);
+    outline-offset: 0.5rem;
+}
+
+
+p,
+li,
+h1,
+h2,
+h3,
+h4 {
+    /* Help prevent overflow of long words/names/URLs */
+    overflow-wrap: break-word;
+    /* Optional, not supported for all languages */
+    hyphens: auto;
+    outline: none;
+    line-height: var(--line-height);
+}
+
+em, cite {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: "→";
+    list-style-position: inside;
+}
+
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: var(--layout-gap-lg);
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    gap: var(--layout-gap-sm);
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    gap: var(--layout-gap-sm);
+}
+
+@media screen and (width <= 1000px) {
+    
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--layout-gap-md);
+}
+
+}
+
+.able-status-bar {
+    box-sizing: content-box;
+}
+
+
+#skip-link:active, #skip-link:focus {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 19rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0.5rem;
+    background: var(--link-color);
+    z-index: 101;
+    outline: 0;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    border-bottom: 1px solid rgba(255,255,255,.2);
+    border-radius: 0 0 0.25rem 0.25rem;
+}
+
+#skip-link:focus {
+    transform: translateY(0%);
+}
+
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+}
