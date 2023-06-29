@@ -2,18 +2,20 @@ body {
     --background-color: #fff;
 }
 
-header {
-    background-color: var(--color);
-    color: #fff;
-}
 
 main {
     --background-color: #fff;
     --color: var(--background-color);
 }
 
-a {
-    --link-color: #fff;
-    font-size: var(--body-2-size);
+main ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: var(--padding-sm);
+    gap: var(--layout-gap-sm);
 }
 
+
+main a:visited {
+    color: var(--visited-color);
+}

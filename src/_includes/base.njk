@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="/styles/variables.css">
     <link rel="stylesheet" href="/styles/style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible">
+    {% if css %}
+        <link rel="stylesheet" href="{{css}}" />
+    {% endif %}
     <title>{{ title }} – Access Toolkit for Artists</title>
 </head>
 <body>

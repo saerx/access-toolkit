@@ -42,7 +42,8 @@
     --line-height: calc(2px + 2ex + 2px);
     /* Colours */
     /* --link-color: #1e90ff; */
-    --link-color: var(--blue);
+    --link-color: #913e22;
+    --visited-color: #8700d0;
 
 
     --old-background-color: springgreen;
@@ -50,6 +51,7 @@
     
     --snowy-mint: #D7FFDB;
     --blue: #420DFF;   
+    --red: #b40000;
     --color: var(--blue);
     --background-color: var(--snowy-mint);
     
