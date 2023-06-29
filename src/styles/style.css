@@ -126,41 +126,6 @@ a:hover {
     font-size: var(--subheading-1-size);
 }
 
-
-/* 
-#main-nav ul {
-    display: flex;
-    flex-direction: row;
-    list-style-type: none;
-    justify-content: flex-end;
-    gap: 1rem;
-    font-size: var(--subheading-1-size);
-    margin: 0;
-    max-width: 45vw;
-}
-
-#main-nav ul li {
-    min-width: min-content;
-    width: 3rem;
-    border-radius: var(--border-radius-md);
-    text-align: center;
-}
-
-#main-nav ul a {
-    text-decoration: none;
-    color: var(--link-color);
-}
-
-#main-nav ul li:focus-within {
-    outline: var(--link-color) 0.125rem solid;
-    color: #fff;
-    background-color: var(--link-color)
-}
-
-#main-nav ul a:focus {
-    color: #fff;
-} */
-
 #logo, #logo a {
     font-size: var(--subheading-2-size);
     text-decoration: none;
