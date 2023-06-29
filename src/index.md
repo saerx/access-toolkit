@@ -1,12 +1,10 @@
 ---
-title: Hello world!
-layout: "base.njk"
+title: Access Toolkit for Arts Workers
+layout: "home.njk"
 ---
-
-It's working
 
 {% for page in collections.pages %}
 
-- [{{ page.data.title}}]({{ page.url }})
+- ### [{{ page.data.title}}]({{ page.url }})
 
 {% endfor %}

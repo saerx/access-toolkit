@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+<nav id="home-nav" aria-label="Pages">
+    <ul>
+        {% for page in collections.pages %}
+        <li>
+            <h2><a href="{{ page.url }}">
+                {{ page.data.title }}
+            </a></h2>
+        </li>
+        {%- endfor %}
+    </ul>
+</nav>
