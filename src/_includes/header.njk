@@ -2,12 +2,10 @@
 {% set currentUrl %}{{ page.url }}{% endset %}
 
 <header>
+    <h2><a {% if currentUrl === '/' %}aria-current="page"{% endif %} href="/" id="logo">Access Toolkit for Arts Workers</a></h2>
     <nav id="main-nav" aria-label="Main navigation">
-        <h2><a href="/" id="logo">Access Toolkit for Arts Workers</a></h2>
         <ul role="list">
             <li>
-            <a {% if currentUrl === '/' %}aria-current="page"{% endif %} href="/">Home</a>
-            </li>
 
             {% for page in collections.pages %}
             <li>
