@@ -31,12 +31,16 @@ header {
     
 }
 
+svg {
+    fill: white;
+}
+
 nav li{
     list-style-type: none;
 }
 
 nav#main-nav {
-    display: contents;
+    display: var(--menu-nav-display);
 
 }
 
@@ -150,6 +154,10 @@ a:hover {
     outline-offset: 0.5rem;
 }
 
+#menu-button {
+    display: var(--menu-button-display);
+}
+
 
 p,
 li,
@@ -251,3 +259,22 @@ article {
     overflow: visible;
     clip: auto;
 }
+
+@media screen and (width <= 30em){
+    header { 
+        --menu-button-display: grid;
+
+        flex-direction: column;
+    }   
+    
+    header nav#main-nav:not(.menu-open) {
+        
+        --menu-nav-display: none;
+    }
+
+    header ul {
+        flex-direction: column;
+        gap: var(--layout-gap-sm);
+        align-items: center;
+    }
+  }

@@ -54,6 +54,9 @@
     --red: #b40000;
     --color: var(--blue);
     --background-color: var(--snowy-mint);
+
+    --menu-nav-display: contents;
+    --menu-button-display: none;
     
 
 
