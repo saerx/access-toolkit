@@ -32,7 +32,7 @@ header {
 }
 
 svg {
-    fill: white;
+    fill: var(--svg-fill);
 }
 
 nav li{
@@ -156,6 +156,16 @@ a:hover {
 
 #menu-button {
     display: var(--menu-button-display);
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+}
+
+#menu-button:focus {
+    /* outline: 0.2rem var(--snowy-mint) solid; */
+    --svg-fill: var(--blue);
+    color: var(--blue);
+    background-color: var(--snowy-mint);
+    
 }
 
 
