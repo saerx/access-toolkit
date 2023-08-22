@@ -284,7 +284,7 @@ article {
     clip: auto;
 }
 
-@media screen and (width <= 72em){
+@media screen and (width <= 69em){
     header { 
         --menu-button-display: grid;
 
