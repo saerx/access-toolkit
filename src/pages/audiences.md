@@ -86,7 +86,7 @@ Harsh lighting can trigger photosensitive epilepsy and chronic migraines. Venues
 #### Online Events and Live Streaming:
 
 
-Many people cannot attend in person events for many reasons, due to disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as[Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate the access of the blind and visually impaired people.  
+Many people cannot attend in person events for many reasons, due to disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as [Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate the access of the blind and visually impaired people.  
 
 
 #### Masks and COVID Safer Events:

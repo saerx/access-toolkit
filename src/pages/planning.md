@@ -25,7 +25,16 @@ Reasonable adjustments are a legal requirement in Ireland and the UK, which requ
 #### Community Consultation:
 
 
-It is also important to centre the access needs and desires of audiences, stakeholders and the communities. Creating space for disabled audiences and stakeholders to inform access provision at a museum or gallery is important in ensuring their knowledge, experiences and needs are involved in planning and delivery. You can centre these voices is number of ways:**Accessibility Steering Group**An Accessibility Steering Group is a paid group of d/Deaf, neurodivergent, chronically ill and disabled people with a wide range of lived experiences that share knowledge with an organisation in the effort of improving access, reducing barriers and combating ableism in a project or organisation. This group can meet for a specific period of time or on a regular occasion to share knowledge and consult on a wide range of accessibility topics.These meetings can be held online or in person, and should have an access budget to meet the access needs of participants.**Representation on the Board**Boards serve an important role in managing an organisation, hiring staff, building relationships with stakeholders and funders and informing policy. Alongside an Accessibility Steering Group it is also advised that an organisation should have a number of d/Deaf, neurodivergent, chronically ill and disabled people on the board. With this representation on the board, the lived experiences and knowledge of disabled people will inform the development of a more accessible organisation, that is connected to disabled communities and has experience of reducing access barriers.  
+It is also important to centre the access needs and desires of audiences, stakeholders and the communities. Creating space for disabled audiences and stakeholders to inform access provision at a museum or gallery is important in ensuring their knowledge, experiences and needs are involved in planning and delivery. You can centre these voices is number of ways:
+
+
+**Accessibility Steering Group**
+
+An Accessibility Steering Group is a paid group of d/Deaf, neurodivergent, chronically ill and disabled people with a wide range of lived experiences that share knowledge with an organisation in the effort of improving access, reducing barriers and combating ableism in a project or organisation. This group can meet for a specific period of time or on a regular occasion to share knowledge and consult on a wide range of accessibility topics.These meetings can be held online or in person, and should have an access budget to meet the access needs of participants.
+
+**Representation on the Board**
+
+Boards serve an important role in managing an organisation, hiring staff, building relationships with stakeholders and funders and informing policy. Alongside an Accessibility Steering Group it is also advised that an organisation should have a number of d/Deaf, neurodivergent, chronically ill and disabled people on the board. With this representation on the board, the lived experiences and knowledge of disabled people will inform the development of a more accessible organisation, that is connected to disabled communities and has experience of reducing access barriers.  
 
 
 
@@ -91,7 +100,8 @@ If a project includes sharing opportunities such as jobs, funding, residencies, 
 **Web Accessibility:**
 
 Web accessibility is a set of standards that ensure a website is accessible to use for people with visual, motor/mobility, auditory, seizures and cognitive/intellectual disabilities. It is a robust set of standards that can be reviewed in full on[W3](https://www.w3.org/WAI/fundamentals/accessibility-intro/).  
-You can see examples of accessible website on:- [NHS](https://www.nhs.uk/)
+You can see examples of accessible website on:
+- [NHS](https://www.nhs.uk/)
 - [GOV.UK](https://www.gov.uk/)
 - [Barbican](https://www.barbican.org.uk/)
 - Access Toolkit for Artworkers  
