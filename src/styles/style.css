@@ -132,7 +132,7 @@ a:not(#logo):active {
 
 
 a:hover {
-    text-decoration-thickness: 0.15rem;
+    text-decoration-thickness: 0.3rem;
 }
 
 #main-nav ul {
@@ -148,11 +148,20 @@ a:hover {
 } 
 
 #logo:focus,
+#logo:active,
 #logo:hover {
+    background: var(--snowy-mint);
+    color: var(--blue);
+    padding: 0.15rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+/* #logo:hover {
     border-radius: var(--border-radius-md);;
     outline: 0.2rem solid var(--link-color);
     outline-offset: 0.5rem;
-}
+} */
 
 #menu-button {
     display: var(--menu-button-display);
@@ -161,7 +170,6 @@ a:hover {
 }
 
 #menu-button:focus {
-    /* outline: 0.2rem var(--snowy-mint) solid; */
     --svg-fill: var(--blue);
     color: var(--blue);
     background-color: var(--snowy-mint);
