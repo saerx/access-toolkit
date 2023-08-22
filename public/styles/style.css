@@ -44,6 +44,10 @@ nav#main-nav {
 
 }
 
+#main-nav li {
+    white-space: nowrap;
+}
+
 
 #home-nav ul{
     --gap: var(--layout-gap-md);
@@ -136,10 +140,11 @@ a:hover {
 }
 
 #main-nav ul {
-    width: 50%;
+    width: 65%;
     display: flex;
     justify-content: space-between;
     font-size: var(--subheading-1-size);
+    gap: var(--layout-gap-sm);
 }
 
 #logo, #logo a {
@@ -278,7 +283,7 @@ article {
     clip: auto;
 }
 
-@media screen and (width <= 30em){
+@media screen and (width <= 72em){
     header { 
         --menu-button-display: grid;
 
