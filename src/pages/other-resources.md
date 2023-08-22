@@ -2,8 +2,6 @@
 title: Other resources
 date: 2023-06-06
 ---
-### Other resources
-
 [Access Doc for Artists](https://www.accessdocsforartists.com/)
 
 [Accessibility in the Arts: A Promise and a Practice](https://promiseandpractice.art/)

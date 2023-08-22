@@ -2,21 +2,18 @@
 title: Workplace
 date: 2023-06-04
 ---
-### Workplace
-
-
 This section will cover how to create a more accessible workplace. To create accessible programmes and workspaces, it is important to take stock of your own access needs and those of all workers. There is little point in having an accessible programme when the workers producing those programmes don’t have their own access needs met or work in an inaccessible workplace, facing risks to health, safety and wellbeing.There is a balance to strike here, as access work requires additional labour that often falls on disabled staff or taken on by disability led organisations. In this section, there will be examples of policies of how to balance the access needs of staff against the programme and create a more accessible workplace.  
 
 
 
-#### Reasonable Adjustments and Access Check-In’s
+### Reasonable Adjustments and Access Check-In’s
 
 
 The first step is to have a conversation with all workers about their access needs and make a plan, agreed by both parties on how to make work accessible. The reasonable adjustments process was detailed in the Planning section, and is where a manager should then make a plan of how to accommodate access needs including adaptations to the workplace, access equipment and software, flexible working hours or the ability to work from home.As a legal requirement, the reasonable adjustment process should be part of an overall culture of discussing access openly. This can be supported by managers holding access check-ins during 1:1’s and quarterly reviews with staff. Access needs often fluctuate and change over time, and the adjustments and the workers needs will change with that. The reasonable adjustment process should therefore just be the beginning of the access conversation, which is left open throughout the workers time at an organisation.  
 
 
 
-#### Flexible Working, Working from Home and Special Leave
+### Flexible Working, Working from Home and Special Leave
 
 
 Often the first step to creating a more accessible workplace is implementing flexible working and working from home policies.- Flexible working often allows workers to make decisions about where and how they work. This can include flexible or compressed hours, part-time, working from home or job sharing. Disabled people often have healthcare commitments, care of others or need to work to different schedules as part of their access needs and know best of how to manage their job and disability. As with access needs, flexible working should be worker centred and may change over time.
@@ -25,7 +22,7 @@ Often the first step to creating a more accessible workplace is implementing fle
 
 
 
-#### Pay, Unions, and Conditions:
+### Pay, Unions, and Conditions:
 
 
 Pay, conditions and workers rights are essential to creating accessible workplaces for disabled people.- Joining a union can provide the official support needed to advocate for workers and disability rights in the workplace, before or during a legal breach.
@@ -34,7 +31,7 @@ Pay, conditions and workers rights are essential to creating accessible workplac
 
 
 
-#### Slow Production, Support Workers and Manageable Workloads:
+### Slow Production, Support Workers and Manageable Workloads:
 
 
 Workplaces can often be inaccessible in how much work is expected of workers, the pace of production schedules and the lack of support staff. In creating more accessible workplaces, there are a number of policies that can be implemented to make work more managale and accessible.- Slow production, including longer production schedules, extended deadlines and flexible outcomes.
@@ -44,7 +41,7 @@ Workplaces can often be inaccessible in how much work is expected of workers, th
 
 
 
-#### Recruitment:
+### Recruitment:
 
 
 An effective way of creating an accessible workplace is hiring a representative workplace, including disabled people of diverse lived experiences. Disabled people face numerous barriers in accessing work, which can be addressed through a number of recruitment policies.- Have a disability friendly workplace that implements and promotes accessible policies such as flexible working, working from home, accessibility supports, encourages union membership and manageable workloads.

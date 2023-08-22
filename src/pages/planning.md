@@ -2,27 +2,24 @@
 title: Planning
 date: 2023-06-02
 ---
-### Planning
-
-
 This section will cover how planning is essential to access; including how to centre access at the planning stage, gather access needs, financial planning, fundraising and how to manage access budgets.You can centre access in planning by working through the intrinsic model of accessibility. The intrinsic model of accessibility centres access from the very first planning conversations, through fundraising, planning, production and display, taking account of access needs at every stage. This begins with gathering the access needs of artists, audiences, stakeholders, staff and yourself.There are a number of ways you can gather this access needs:  
 
 
-#### Access Riders:
+### Access Riders:
 
 
 An access rider is a document that outlines a person's access needs often used by artists when working with an art organisation. It should include information on the access barriers a disabled person faces and what they need to have equal access to work. All artists should be supported in making an access rider in the beginning of the working relationship.The artist should be given the adequate support and information required to make an access rider. An access rider does not require someone to name their disability, and should not be negotiated. Access needs may change over time, which can be flagged in the access rider or sent in an updated rider.You can see examples of access riders at[Access Doc for Artists](https://www.accessdocsforartists.com/).  
 
 
 
-#### Reasonable Adjustments:
+### Reasonable Adjustments:
 
 
 Reasonable adjustments are a legal requirement in Ireland and the UK, which requires employers to make reasonable accommodations for workers to have equal access to work, promotion and training.This often begins with a meeting with the manager, where access needs are officially recorded. The employer should then make a plan of how to accommodate the workers' access needs including adaptations to the workplace, access equipment and software, flexible working hours or the ability to work from home.Reasonable adjustments are often not adequate in meeting all the access needs of disabled staff, but is a useful place to begin a conversation around access. It is advisable that if the reasonable adjustment process does not meet all access needs, an employer should provide that support outside of the process.  
 
 
 
-#### Community Consultation:
+### Community Consultation:
 
 
 It is also important to centre the access needs and desires of audiences, stakeholders and the communities. Creating space for disabled audiences and stakeholders to inform access provision at a museum or gallery is important in ensuring their knowledge, experiences and needs are involved in planning and delivery. You can centre these voices is number of ways:
@@ -38,7 +35,7 @@ Boards serve an important role in managing an organisation, hiring staff, buildi
 
 
 
-#### Access Planning:
+### Access Planning:
 
 
 Once you’ve gathered the access needs of the team and stakeholders involved you can decide on what access provision the project needs. Every project will be different and every artist will have different access needs so it’s important that access planning is adaptable and centres the needs of those involved. Access planning looks different for every project and everyone you work with, but these are some useful questions you can ask when planning:  
@@ -55,7 +52,7 @@ Once you’ve gathered the access needs of the team and stakeholders involved yo
 
 
 
-#### Financial Planning
+### Financial Planning
 
 
 Once you’ve gathered the access needs of all stakeholders, and built an access plan around that information, you can begin to financially plan around those needs. It is advised 10% - 20% of the production budget is ring fenced for access costs. This will allow you to cover planned access costs and contingency for unplanned costs. You may budget for a certain level of access provision, and then an unexpected access barrier arises. It is best to have that budget available, rather than fundraise for it last minute, risking unnecessary access barriers.  
@@ -66,7 +63,7 @@ You may also choose to fundraise for these additional costs, or a combination of
 
 
 
-#### Fundraising:
+### Fundraising:
 
 
 In the UK and Ireland:The English and Irish Arts Councils allow for access costs to be requested on top of standard project budgets. When fundraising for art projects or commissions, the access needed for the artist can be fully or partially supported through this. This access budget can be used to hire a support worker, access equipment or software, fees for the additional time needed for some disabled artists, transport or any other access costs needed to make the project possible, and reduce access barriers.  
@@ -78,7 +75,7 @@ In the UK:- Arts Council of England has limited avenues to fundraise access cost
 
 
 
-#### Consistent Planning:
+### Consistent Planning:
 
 
 Access centred planning must be consistent so disabled artists, audiences and staff rely on their access needs being met. It may take you some time to implement these policies and use these tools, but it is important that once you do begin to reduce an access barrier, you continue to do so consistently.  
@@ -92,7 +89,7 @@ Disabled artists, audience and staff rely on consistency. It is okay to learn as
 
 
 
-#### Opportunities:
+### Opportunities:
 
 
 If a project includes sharing opportunities such as jobs, funding, residencies, open calls or other opportunities, it is essential that the information needed to apply successfully is accessible. There are a number of ways opportunities can present information in an accessible way.  

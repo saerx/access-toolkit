@@ -2,8 +2,6 @@
 title: About
 date: 2023-06-01
 ---
-### About
-
 Welcome to the Access Toolkit for Artworkers.
 
 This is a practical resource for artworkers, such as curators, producers and arts administrators working independently or in galleries, museums and art organisations. This toolkit contains practical information on how to plan, produce, and exhibit accessible art projects; including information of access riders, financial planning, slow production, display and creating an accessible workplace. This information is intended to address the access barriers faced by d/Deaf, neurodivergent, chronically ill and disabled artists, audiences and artworkers, and those who experience ableism. The information in this toolkit has been gathered anonymously from a wide range of disabled artists, curators and producers and those working in art organisations dedicated to commissioning disabled artists. It has also been informed by the author’s own experience as a disabled curator, who has faced access barriers and ableism working in art. It is most relevant to working in the UK and Ireland but is applicable in a wide set of contexts. This is not an exhaustive resource but is intended to support artworkers to begin the process of addressing ableism in their practices and workplaces accessible for disabled artists, audiences, colleagues and themselves.

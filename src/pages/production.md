@@ -2,14 +2,11 @@
 title: Production
 date: 2023-06-03
 ---
-### Production
-
-
 This section will cover how production of art projects can be made more accessible. Accessible production has a number of priorities; including slower, extended schedules, flexible deadlines and outcomes and the centering of the access, health and wellbeing of those involved. This can include slow production and working with support workers to produce projects.  
 
 
 
-#### Slow Production
+### Slow Production
 
 
 Slow production acknowledges that some people need more time to work. This may be for a number of reasons including disability, illness, parenting, pregnancy, transition, care work, grief, unstable housing, living situation or burn out. In approaching production in a slower, more flexible, adaptive way, working becomes more manageable for everyone involved. There are a number of ways you can work towards slower production schedules:- Planning ahead; building in longer production schedules, beginning work with artists with sufficient time to produce that work.
@@ -20,7 +17,7 @@ Slow production acknowledges that some people need more time to work. This may b
 
 
 
-#### Support Workers
+### Support Workers
 
 
 In addition to slower production schedules, some artists and artworkers require a support worker. A support worker is someone who supports disabled people access work or care, and reduces access barriers. Many disabled artists and artworkers already rely on unpaid support work from friends, partners and family, and would benefit from official paid support work.When working with an artists, a support worker can support with:- Artistic tasks, such as making the artwork.
@@ -37,7 +34,7 @@ In addition to slower production schedules, some artists and artworkers require 
 
 
 
-#### Communication:
+### Communication:
 
 
 Communication is key to creating an accessible relationship with artists and the team during production periods. Everyone has their preferred method of communicating, with different forms of communication accessible for different people. You can request communication preferences in the access rider at the beginning of the working relationship. This may change throughout the different stages of work but acknowledging how communication can reduce or create access barriers for people, is essential. Here are some options you can communicate through:- Voice Notes.
