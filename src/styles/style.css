@@ -280,6 +280,15 @@ article {
 }
 
 @media screen and (width <= 69em){
+    nav#main-nav {
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        flex-direction: column;
+        gap: var(--layout-gap-sm);
+    }
+    
+
     header { 
         --menu-button-display: grid;
 

@@ -18,23 +18,11 @@
 <script> 
     toggleMenu = () => {
     const menuButton = document.getElementById("menu-button");
-    const menuNav = document.getElementById("main-nav");
     let expanded = menuButton.getAttribute("aria-expanded");
 
     menuButton.setAttribute('aria-expanded', !expanded);
     let menu = menuButton.nextElementSibling;
     menu.hidden = !menu.hidden;
-
-    // if (expandedState === "false") {
-    //     menuButton.setAttribute("aria-expanded", 'true');
-    //     menuNav.setAttribute("aria-hidden", 'false');
-    //     menuNav.classList.add('menu-open');
-
-    // } else {
-    //     menuButton.setAttribute('aria-expanded', 'false');
-    //     menuNav.setAttribute('aria-hidden', 'true');
-    //     menuNav.classList.remove('menu-open');
-    // }
 };
 </script>
 
