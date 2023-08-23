@@ -284,6 +284,13 @@ article {
     clip: auto;
 }
 
+.mobile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
 @media screen and (width <= 69em){
     header { 
         --menu-button-display: grid;
