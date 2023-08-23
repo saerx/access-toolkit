@@ -40,11 +40,6 @@ nav li{
     list-style-type: none;
 }
 
-nav#main-nav {
-    display: var(--menu-nav-display);
-
-}
-
 #main-nav li {
     white-space: nowrap;
 }
@@ -142,7 +137,7 @@ a:hover {
 
 #main-nav ul {
     width: 65%;
-    display: flex;
+    display: var(--menu-nav-display);
     justify-content: space-between;
     font-size: var(--subheading-1-size);
     gap: var(--layout-gap-sm);
@@ -284,21 +279,13 @@ article {
     clip: auto;
 }
 
-.mobile-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-}
-
 @media screen and (width <= 69em){
     header { 
         --menu-button-display: grid;
 
         flex-direction: column;
     }   
-    
-    header nav#main-nav:not(.menu-open) {
+    header ul[hidden] {
         
         --menu-nav-display: none;
     }

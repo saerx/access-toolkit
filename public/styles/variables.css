@@ -56,7 +56,7 @@
     --background-color: var(--snowy-mint);
     --svg-fill: var(--snowy-mint);
 
-    --menu-nav-display: contents;
+    --menu-nav-display: flex;
     --menu-button-display: none;
     
 
