@@ -24,7 +24,8 @@
 
     menuButton.setAttribute('aria-expanded', !expanded);
     let menu = menuButton.nextElementSibling;
-    menu.hidden = !menu.hidden;
+    menu.className === 'menu-open' ? menu.classList.remove('menu-open') : menu.classList.add('menu-open');
+
 };
 </script>
 

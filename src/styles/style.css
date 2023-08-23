@@ -294,8 +294,9 @@ article {
 
         flex-direction: column;
     }   
-    header ul[hidden] {
-        
+
+    
+    header ul:not(.menu-open) {
         --menu-nav-display: none;
     }
 
