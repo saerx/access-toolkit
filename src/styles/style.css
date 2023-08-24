@@ -19,7 +19,7 @@ body {
     line-height: calc(2px + 2ex + 2px);
 }
 
-header {
+header, footer {
     --link-color: var(--snowy-mint);
 
     background-color: var(--blue);
@@ -68,9 +68,16 @@ nav li{
     color: var(--snowy-mint);
 }
 
+
 footer {
     position: sticky;
     top: 100vh;
+    padding-left: var(--padding-sm);
+    display: grid;
+    grid-template-columns: repeat( 2, 1fr);
+    justify-content: space-between;
+    padding-right: var(--padding-sm);
+    justify-items: end;
 }
 
 footer p {

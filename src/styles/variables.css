@@ -40,6 +40,8 @@
 
     
     --line-height: calc(2px + 2ex + 2px);
+
+    --grid-col-breakpoint: 33%;
     /* Colours */
     /* --link-color: #1e90ff; */
     --link-color: #913e22;
