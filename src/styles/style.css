@@ -175,8 +175,6 @@ main a:focus, main a:active {
     background: var(--snowy-mint);
     color: var(--blue);
     padding: 0.15rem;
-    box-decoration-break: clone;
-    -webkit-box-decoration-break: clone;
 }
 
 /* #logo:hover {
