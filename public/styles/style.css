@@ -142,6 +142,19 @@ a:hover {
     text-decoration-thickness: 0.3rem;
 }
 
+main a {
+    text-underline-offset: 0;
+}
+
+main a:hover {
+    text-decoration-thickness: 0.15rem;
+}
+
+main a:focus, main a:active {
+    text-decoration: none;
+    outline: 0.15rem solid var(--link-color);
+}
+
 #main-nav ul {
     width: 65%;
     display: var(--menu-nav-display);
