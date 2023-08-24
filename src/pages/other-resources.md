@@ -6,7 +6,7 @@ date: 2023-06-06
 
 [Accessibility in the Arts: A Promise and a Practice](https://promiseandpractice.art/)
 
-[Sins Invalid Access Suggestions for Events](https://www.sinsinvalid.org/blog/access-suggestions-for-a-public-event)
+[Access Suggestions for Events](https://www.sinsinvalid.org/blog/access-suggestions-for-a-public-event) by Sins Invalid.  
 
 [Alt Text as Poetry](https://alt-text-as-poetry.net/#book)
 
