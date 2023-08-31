@@ -19,3 +19,8 @@ main ul {
 main a:visited {
     color: var(--visited-color);
 }
+
+main svg { 
+    --svg-fill: var(--color);
+    height: 16rem;
+}
