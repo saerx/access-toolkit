@@ -187,6 +187,7 @@ main a:focus, main a:active {
     display: var(--menu-button-display);
     padding: 0.5rem;
     border-radius: 0.25rem;
+    justify-items: center;
 }
 
 #menu-button:focus {
