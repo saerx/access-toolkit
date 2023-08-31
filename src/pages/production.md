@@ -45,7 +45,7 @@ Hiring a support worker can be financed in a number of ways:
 
 
 
-### Communication:
+### Communication
 
 Communication is key to creating an accessible relationship with artists and the team during production periods. Everyone has their preferred method of communicating, with different forms of communication accessible for different people. You can request communication preferences in the access rider at the beginning of the working relationship. This may change throughout the different stages of work but acknowledging how communication can reduce or create access barriers for people is essential. Here are some alternative options to standard email and phonecalls, you can communicate through:
 

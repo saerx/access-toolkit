@@ -20,7 +20,7 @@ Often the first step to creating a more accessible workplace is implementing fle
 - Special leave is another effective policy in centering access, health and wellbeing in the workplace. Current sick leave provision is not adequate for most workers and workplaces, as most require additional days leave for various reasons. This could be structured or implemented for different circumstances such as, additional sick, mental health, gender transition, rest, caring, parental, pregnancy loss, menopause and grief leave. In terms of mental health leave, it is advised that a number of days are allocated per worker per year that can be taken with short notice.
 - Some workers may need to take extensive periods of time off for healthcare or a flare up of their condition. It is vital that the worker is supported in taking leave and plans are made to support them if they decide to return, without judgement.
 
-### Pay, Unions, and Conditions:
+### Pay, Unions, and Conditions
 
 Pay, conditions and worker solidarity are essential to creating accessible workplaces for disabled people.
 
@@ -31,7 +31,7 @@ Pay, conditions and worker solidarity are essential to creating accessible workp
 
 
 
-### Slow Production, Support Workers and Manageable Workloads:
+### Slow Production, Support Workers and Manageable Workloads
 
 Workplaces can often be inaccessible in how much work is expected of workers, the pace of production schedules and the lack of support staff. In creating more accessible workplaces, there are a number of policies that can be implemented to make work more manageable and accessible.
 
@@ -40,7 +40,7 @@ Workplaces can often be inaccessible in how much work is expected of workers, th
 - Shorter and less regular meetings. Keep meetings to 30mins - 45mins maximum, with breaks and only have meetings when necessary.
 - Re-assess workloads and job descriptions; if a role is inaccessible for someone, changes can be made or responsibilities moved around.
 
-### Recruitment:
+### Recruitment
 
 An effective way of creating an accessible workplace is hiring a representative workplace, including disabled people of diverse lived experiences. Disabled people face numerous barriers in accessing work, which can be addressed through a number of recruitment policies:
 
