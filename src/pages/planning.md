@@ -1,5 +1,6 @@
 ---
 title: Planning
+blurb: Learn how to centre access throughout planning including how to gather access needs, sharing opportunities, financial planning, fundraising and how to manage access budgets. 
 date: 2023-06-02
 ---
 This section will cover how planning is essential to access; including how to centre access at the planning stage, gather access needs, financial planning, fundraising and how to manage access budgets.

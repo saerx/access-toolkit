@@ -1,5 +1,6 @@
 ---
 title: Production
+blurb: Explore how to make production more accessible for artists and artworker, including slow production methods, working with support workers and how to centre health, wellbeing and access. 
 date: 2023-06-03
 ---
 This section will cover how production of art projects can be made more accessible. Accessible production has a number of priorities including slower, extended schedules, flexible deadlines and outcomes, and the centering of the access, health and wellbeing of those involved. This can include slow production and working with support workers to produce projects.

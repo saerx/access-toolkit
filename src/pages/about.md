@@ -1,5 +1,6 @@
 ---
 title: About
+blurb: "What is the Access Toolkit for Artworkers, how was it made, and who made it happen?"
 date: 2023-06-01
 ---
 

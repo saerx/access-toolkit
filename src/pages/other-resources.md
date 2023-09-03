@@ -1,5 +1,6 @@
 ---
 title: Other resources
+blurb: Discover a range of access resources by disabled artists and artworkers that can further support you on reducing access barriers in the arts, including on how to make an access rider, access suggestions for events and alt text. 
 date: 2023-06-06
 ---
 - [Access Docs for Artists](https://www.accessdocsforartists.com/) by Leah Clements, Alice Hattrick and Lizzy Rose.
