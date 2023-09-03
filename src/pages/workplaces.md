@@ -3,6 +3,10 @@ title: Workplace
 blurb: How can you make your workplace more accessible? This section will cover how reasonable adjustments, flexible working, unionising, pay, manageable workloads and recruitment can reduce access barriers for artworkers.
 date: 2023-06-04
 ---
+
+### Table of Contents
+[toc]
+
 This section will cover how to create a more accessible workplace. To create accessible programmes and workspaces, it is important to take stock of your own access needs and those of all workers. There is little point in having an accessible programme when the workers producing those programmes don’t have their own access needs met or work in an inaccessible workplace, facing risks to health, safety and wellbeing.
 
 There is a balance to strike here, as access work requires additional labour that often falls on disabled staff or is taken on by disability led organisations. In this section, there will be examples of policies on how to balance the access needs of staff against the programme and create a more accessible workplace.

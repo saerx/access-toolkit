@@ -329,3 +329,11 @@ a#skip-link:active, a#skip-link:focus {
         align-items: center;
     }
   }
+
+
+  /* TOC settings */
+  body { scroll-behavior: smooth; }
+ 
+ol { counter-reset: list-item; }
+ol li { display: block; counter-increment: list-item; }
+ol li:before { content: counters(list-item,'.') ' '; }

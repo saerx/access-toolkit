@@ -1,11 +1,11 @@
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
-// const markdownTOC = require('markdown-it-toc-done-right');
+const markdownTOC = require('markdown-it-toc-done-right');
 
 
 module.exports = function (eleventyConfig) {
 
-    eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItAnchor));
+    eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItAnchor, { permalink: true, permalinkBefore: true, permalinkSymbol: '§' }).use(markdownTOC));
     eleventyConfig.addPassthroughCopy("./src/styles/style.css");
     eleventyConfig.addPassthroughCopy("./src/styles/variables.css");
     eleventyConfig.addPassthroughCopy("./src/styles/pages.css");

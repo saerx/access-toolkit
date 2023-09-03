@@ -1,8 +1,14 @@
 ---
 title: Planning
-blurb: Learn how to centre access throughout planning including how to gather access needs, sharing opportunities, financial planning, fundraising and how to manage access budgets. 
+blurb: "Learn how to centre access throughout planning including how to gather access needs, sharing opportunities, financial planning, fundraising and how to manage access budgets."
 date: 2023-06-02
 ---
+### Table of Contents
+[toc]
+
+
+### Introduction 
+
 This section will cover how planning is essential to access; including how to centre access at the planning stage, gather access needs, financial planning, fundraising and how to manage access budgets.
 
 You can centre access in planning by working through the intrinsic model of accessibility. The intrinsic model of accessibility centres access from the very first planning conversations, through fundraising, planning, production and display, taking account of access needs at every stage. This begins with gathering the access needs of artists, audiences, stakeholders, staff and yourself.

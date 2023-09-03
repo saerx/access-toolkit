@@ -4,32 +4,10 @@ blurb: Explore the access tools you can use to make artworks, exhibitions and pr
 date: 2023-06-05
 ---
 
-
 ### Table of Contents
+[toc]
 
-- [Access Statement](#access-statement)
-- Accessible WC
-- Audio Description
-- Childcare
-- Closed Captioning
-- Communication
-- Consent
-- Content Warnings
-- Dementia Friendly Events
-- Exhibition Design
-- Lighting and Flashing
-- Online Events and Live Streaming
-- Masks and COVID Safer Events
-- Perfume / Chemical Sensitivity
-- Quiet / Sensory Rooms
-- Seating
-- Sign Language Interpretation
-- Sliding Scale Prices
-- Support Workers and Service Animals
-- Mobility
-- Printed Matter
-- Touch Tours
-- Transcriptions
+### Introduction
 
 This section will cover how to make artworks, exhibitions and programmes accessible for audiences. There are many ways to make an artwork or art project accessible and each project requires a different set of access tools informed by the medium, the access needs of the audience, and the wishes of the artist.
 

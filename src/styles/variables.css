@@ -28,7 +28,7 @@
     --type-size-min: calc(var(--type-size) - (var(--type-size) * 0.33));
     --type-size-scaler: calc((var(--type-size) var(--type-size-min)) + 4vw);
     --font-size: clamp(var(--type-size-min), var(--type-size-scaler), var(--type-size));
-    --line-height: calc(2px + 2.3ex + 2px);
+    --line-height: calc(2px + 3ex + 2px);
 
     --body-2-size: var(--type-size);
     --subheading-1-size: calc(var(--type-size) * var(--type-ratio));
@@ -38,8 +38,6 @@
 
     --body-1-size: calc(var(--type-size) * var(--inverse-type-ratio));
 
-    
-    --line-height: calc(2px + 2ex + 2px);
 
     --grid-col-breakpoint: 33%;
     /* Colours */
