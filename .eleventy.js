@@ -22,6 +22,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/mstile-150x150.png");
     eleventyConfig.addPassthroughCopy("./src/safari-pinned-tab.svg");
     eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
+    eleventyConfig.addPassthroughCopy("./src/build");
+    eleventyConfig.addPassthroughCopy("./src/button-icons");
+    eleventyConfig.addPassthroughCopy("./src/translations");
 
     
     return {
