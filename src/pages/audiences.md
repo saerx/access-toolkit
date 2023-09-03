@@ -38,7 +38,7 @@ There are two differing perspectives on how to use access tools in artworks. The
 This section includes information included in Carolyn Lazards' foundational [Accessibility in the Arts: A Promise and a Practice](https://promiseandpractice.art/), which has been amended to be more relevant to the UK and Irish context.
 
 
-### Access Statement {#access-statement}
+### Access Statement
 
 An access statement is a statement on a project webpage and/or printed matter that includes access information on an exhibition, event or space. This includes information on the venue such as whether it is step free, wheelchair accessible, has an accessible bathroom, a quiet room and information on how to travel to the event by public transport. It should provide information on artworks and events such as if there will be a sign language interpreter, audio description, captioning and breaks, or requests to wear a mask or not wear perfume.
 

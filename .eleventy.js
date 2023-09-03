@@ -1,4 +1,11 @@
+const markdownIt = require('markdown-it');
+const markdownItAnchor = require('markdown-it-anchor');
+// const markdownTOC = require('markdown-it-toc-done-right');
+
+
 module.exports = function (eleventyConfig) {
+
+    eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItAnchor));
     eleventyConfig.addPassthroughCopy("./src/styles/style.css");
     eleventyConfig.addPassthroughCopy("./src/styles/variables.css");
     eleventyConfig.addPassthroughCopy("./src/styles/pages.css");
@@ -15,6 +22,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/mstile-150x150.png");
     eleventyConfig.addPassthroughCopy("./src/safari-pinned-tab.svg");
     eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
+
     
     return {
         dir: {
