@@ -311,6 +311,10 @@ a#skip-link:active, a#skip-link:focus {
         gap: var(--layout-gap-sm);
     }
     
+    /* For Able Player mobile view */
+    aside {
+        width: clamp(15rem, 60%, 70vw);
+    }
 
     header { 
         --menu-button-display: grid;
@@ -334,6 +338,15 @@ a#skip-link:active, a#skip-link:focus {
   /* TOC settings */
   body { scroll-behavior: smooth; }
  
-ol { counter-reset: list-item; }
-ol li { display: block; counter-increment: list-item; }
-ol li:before { content: counters(list-item,'.') ' '; }
+    ol li { display: block; counter-increment: list-item; }  
+    ol li:before { content: counters(list-item,'.') ' '; }
+
+    ol li li {
+        margin-left: var(--padding-sm);
+    }
+
+/* Able Player */
+
+.able-status-bar {
+    box-sizing: content-box;
+}
