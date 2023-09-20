@@ -54,7 +54,7 @@ Hiring a support worker can be financed in a number of ways:
 
 ### Communication
 
-Communication is key to creating an accessible relationship with artists and the team during production periods. Everyone has their preferred method of communicating, with different forms of communication accessible for different people. You can request communication preferences in the access rider at the beginning of the working relationship. This may change throughout the different stages of work but acknowledging how communication can reduce or create access barriers for people is essential. Here are some alternative options to standard email and phonecalls, you can communicate through:
+Communication is key to creating an accessible relationship with artists and the team during production periods. Everyone has their preferred method of communicating, with different forms of communication accessible for different people. You can request communication preferences in the access rider at the beginning of the working relationship. This may change throughout the different stages of work but acknowledging how communication can reduce or create access barriers for people is essential. Here are some alternative options to standard email and phonecalls you can communicate through:
 
 - Voice Notes.
 - Online Meetings.
@@ -62,6 +62,6 @@ Communication is key to creating an accessible relationship with artists and the
 - Large Text email and/or Easy Read Documents.
 - Liaising through a support worker.
 
-Some disabled people communicate differently, including taking longer to respond, tick, twitch or not maintaining eye contact. Assumptions shouldn’t be made and all communication styles should be accommodated and respected. People with learning and developmental disabilities may require slower and clearer speech, accommodating variations in response time or to be joined by a support worker. It is also advised to avoid use of overly technical language or jargon. d/Deaf or hard of hearing people may require sign language interpreters to join meetings or for online meetings be captioned.
+Some disabled people communicate differently, including taking longer to respond, tick, twitch or not maintaining eye contact. Assumptions shouldn’t be made and all communication styles should be accommodated and respected. People with learning and developmental disabilities may require slower and clearer speech, accommodating variations in response time or to be joined by a support worker. It is also advised to avoid use of overly technical language or jargon. d/Deaf or hard of hearing people may require sign language interpreters to join meetings or for online meetings to be captioned.
 
   

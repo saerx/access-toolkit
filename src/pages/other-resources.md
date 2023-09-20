@@ -9,4 +9,5 @@ date: 2023-06-06
 - [Alt Text as Poetry](https://alt-text-as-poetry.net/#book) by Bojana Coklyat and Shannon Finnegan.
 - [Creating Your Own Access Rider](https://weareunlimited.org.uk/resource/creating-your-own-access-rider/) by Unlimited.  
 - [This Work Isn’t For Us](https://docs.google.com/document/d/1HGBSsBsERxSaD1t0Oq_9acqAqiAPPLekBxaJ8tk-Njw/edit) by Jemma Desai.   
+- [Access Webinars](https://www.youtube.com/@ADIarts) by Arts and Disability Ireland.
 

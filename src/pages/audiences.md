@@ -11,7 +11,7 @@ date: 2023-06-05
 
 This section will cover how to make artworks, exhibitions and programmes accessible for audiences. There are many ways to make an artwork or art project accessible and each project requires a different set of access tools informed by the medium, the access needs of the audience, and the wishes of the artist.
 
-There are two differing perspectives on how to use access tools in artworks. There is the American Model that requires everything to be accessible to everyone all the time, which can be unrealistic, especially for small organisations with limited budgets and access clashes. And there is the Creative Model that involves more of a conversation between access and creative intent of the artist, attempting to make artworks as accessible as possible without compromising artistic vision. What model you use is dependent on staff preference, who you’re trying to reach and the artist. This section details the access tools you can use when you make these decisions.
+There are two differing perspectives on how to use access tools in artworks. There is the American Model that requires everything to be accessible to everyone all the time, which can be unrealistic, especially for small organisations with limited budgets and access clashes. This model is based on the [Americans with Disabilities Act](https://www.ada.gov) and the specific legal requirements organisations and companies have in the USA. And there is the Creative Model that involves more of a conversation between access and creative intent of the artist, attempting to make artworks as accessible as possible without compromising artistic vision. What model you use is dependent on staff preference, who you’re trying to reach and the artist. This section details the access tools you can use when you make these decisions.
 
 This section includes information included in Carolyn Lazards' foundational [Accessibility in the Arts: A Promise and a Practice](https://promiseandpractice.art/), which has been amended to be more relevant to the UK and Irish context.
 
@@ -20,7 +20,7 @@ This section includes information included in Carolyn Lazards' foundational [Acc
 
 An access statement is a statement on a project webpage and/or printed matter that includes access information on an exhibition, event or space. This includes information on the venue such as whether it is step free, wheelchair accessible, has an accessible bathroom, a quiet room and information on how to travel to the event by public transport. It should provide information on artworks and events such as if there will be a sign language interpreter, audio description, captioning and breaks, or requests to wear a mask or not wear perfume.
 
-It is vital to communicate what isn’t accessible so audiences can make informed decisions about attending. It is also important to provide an email that is checked regularly and/or a phone number where access enquiries can be made. The disability justice centred, POC and queer performance art project Sins Invalid have been instrumental in founding and championing the practice of access statements. You can find a useful list of access suggestions for public events here on [Sins Invalid’s Access Suggestions for Public Events](http://www.sinsinvalid.org/news-1/2020/6/8/access-suggestions-for-public-events.).
+It is vital to communicate what isn’t accessible so audiences can make informed decisions about attending. It is also important to provide an email that is checked regularly and/or a phone number where access enquiries can be made. The disability justice centred, POC and queer performance art project Sins Invalid have been instrumental in founding and championing the practice of access statements. You can find a useful list of access suggestions for public events on the [Sins Invalid’s Access Suggestions for Public Events](http://www.sinsinvalid.org/news-1/2020/6/8/access-suggestions-for-public-events.).
 
 
 ### Accessible WC
@@ -96,7 +96,7 @@ Audio Description services are symbolised using this symbol:
 
 ### Childcare
 
-The needs of parents and their children should be considered when planning programmes. This can include providing spaces for children to play or children and family friendly tours and activities, such as screenings where parents can bring their young children. Organisations should also look to provide suitable baby changing facilities,welcome breastfeeding, and where possible provide breastfeeding stations. It can also be helpful to flag if an event or programme is child friendly or contains adult content to support parents and caregiving to make an informed decision.
+The needs of parents and their children should be considered when planning programmes. This can include providing spaces for children to play or children and family friendly tours and activities, such as screenings where parents can bring their young children. Organisations should also look to provide suitable baby changing facilities, welcome breastfeeding, and where possible provide breastfeeding stations. It can also be helpful to flag if an event or programme is child friendly or contains adult content to support parents and caregiving to make an informed decision.
 
 
 ### Closed Captioning
@@ -105,7 +105,7 @@ Closed captioning facilitates access for d/Deaf and hard of hearing communities.
 
 [Stagetext](https://www.stagetext.org/) provides custom captioning for live and prerecorded plays, performances and films. [My Clear Text](https://www.mycleartext.com/) and [Premier Captioning](http://pcr.ie/#about) provide live captioning services for live events such as plays, performances, talks and conferences. These are the most accurate captioning services with about 98% accuracy, and their use is best practice.
 
-For a limited service [Otter.ai](https://otter.ai/home) live transcription is available for online and in person performances, meetings and public programmes, but only captions the spoken word and not other sounds or music. This is also auto generated via AI software and is significantly less accurate than other services.
+For a limited service [Otter.ai](https://otter.ai/home) live transcription is available for online and in person meetings and talks, but only captions the spoken word and not other sounds or music. This is also auto generated via AI software and is significantly less accurate than other services. The accuracy of captioning with companies such as Otter.ia drops to 70-75%, which should be considered when planning for the needs of captions users.
 
 Closed Captioning services are symbolised using this symbol:
 
@@ -151,16 +151,15 @@ Content warnings reduce access barriers for people withpsychological disabilitie
 Content warnings can be verbally announced at the beginning of an event or shared via an access statement or at the beginning of a screening. Organisations and artworkers cannot control how audiences react in their spaces but content warnings are a useful tool that empowers audiences to make an informed decision.
 
 
-
-
 ### Dementia Friendly Events
 
 Dementia friendly tours are facilitated events with a trained member of staff for people with Alzheimers and Dementia and their friends, family and carers. Dementia friendly events reduce barriers to participating in arts and culture for a group at greater risk of exclusion and isolation, and provide health benefits through connecting with art.
 
+You can find more information on dementia friendly event in Ireland on the [Azure](https://ageandopportunity.ie/engage/azure-dementia-friendly-tours/#phone) page of Age and Opportunity.
 
 ### Exhibition Design
 
-When designing an exhibition, access for wheelchair users or little people can be facilitated by hanging artworks at a lower height. The standard hanging height for 2D artworks is 150cm, but by lowering that to 100cm, access barriers to experiencing the artwork are reduced.. If there is printed matter or brochures available, they should also be visible and available to take at a height that is accessible. This should also be the case for vinyl displays, especially where information is provided about the exhibition. When designing an exhibition, it is also important to consider how a wheelchair user or those using mobility aids navigate the space. When installing sculptural, installation or 3D artworks, it is vital that there is at least 1.5m between artworks.
+When designing an exhibition, access for wheelchair users or little people can be facilitated by hanging artworks at a lower height. The standard hanging height for 2D artworks is 150cm, but by lowering that to 100cm, access barriers to experiencing the artwork are reduced. If there is printed matter or brochures available, they should also be visible and available to take at a height that is accessible. This should also be the case for vinyl displays, especially where information is provided about the exhibition. When designing an exhibition, it is also important to consider how a wheelchair user or those using mobility aids navigate the space. When installing sculptural, installation or 3D artworks, it is vital that there is at least 1.5m between artworks.
 
 A QR code can also be available at entrances, linking to the exhibition access statement and other access tools such as transcriptions.
 
@@ -172,17 +171,22 @@ Harsh lighting can trigger photosensitive epilepsy and chronic migraines. Venues
 If an artwork, film or performance includes flashing or stroboscopic lights, audiences should be informed in advance and this information clearly stated in the access statement. Flash photography should be avoided unless absolutely necessary and if used a clear warning should be given to audience members.
 
 
-### Online Events and Live Streaming
-
-Many people cannot attend in person events for multiple reasons such as disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as [Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate access ford/Deaf and hard of hearing?
-
-
 ### Masks and COVID Safer Events
 
 With COVID policies in most public spaces having been lifted, older, chronically ill and those with suppressed immune systems face huge risks in attending public events. Events can be made safer with HEPA filters, requesting mask wearing, maintaining social distance, and to take a COVID test before attending. It should also be advised that anyone with cold or flu-like symptoms should not attend, and when in doubt, not to attend. Please note that oral d/Deaf people often use lipreading to understand speakers, so speakers should remove masks when speaking or wear clear masks.
 
 Alternatively, regular masked events should be programmed, to provide safe and accessible opportunities to experience a programme.
 
+
+### Online Events and Live Streaming
+
+Many people cannot attend in person events for multiple reasons such as disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as [Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate access ford/Deaf and hard of hearing?
+
+### Navilens
+
+[Navilens](https://museos.navilens.com/index-en.html) is a smartphone enabled technology that via an app scans colourful codes and guides blind and low vision people to navigate public spaces. Navilens can be used in galleries as digital signage to guide and share information with vocal instructions for blind and low vision attendees.
+
+Learn more about Navilens on Art and Disability Ireland’s Webinar on [Access Technology for Audio Description & Captioning: Supporting an Accessible Arts Programme](https://www.youtube.com/watch?v=K6JVsau4zw0). 
 
 ### Perfume / Chemical Sensitivity
 
@@ -207,7 +211,9 @@ Providing adequate and comfortable seating for a wide set of needs is essential 
 
 The use of Irish Sign Language (ISL) and British Sign Language (BSL) at public events can facilitate access for d/Deaf and hard of hearing communities. Not all d/Deaf and hard of hearing people in Ireland and the UK use ISL or BSL, so the needs of the community should be considered when booking sign language interpretation services. Captioning may be a more accessible service for a broader set of audiences, including d/Deaf and hard of hearing people. ISL or BSL interpretation might not be needed at all events but regular ISL or BSL events should be programmed to serve the community. Audiences should also have the option to request ISL or BSL interpretation for an event, with an interpreter booked on a case by case basis.
 
-BSL interpreters can be hired via services such as [Interpreters of Colour Network](https://interpretersofcolour.net/) in the UK. You can find information on where to hire an ISL interpreter on the [Irish Deaf Society](https://www.irishdeafsociety.ie/interpreters/booking-an-interpreter/).
+BSL interpreters can be hired via services such as [Interpreters of Colour Network](https://interpretersofcolour.net/) in the UK. 
+
+You can find information on where to hire an ISL interpreter on the [Irish Deaf Society](https://www.irishdeafsociety.ie/interpreters/booking-an-interpreter/).
 
 Sign language interpretation services are symbolised using this symbol:
 
@@ -264,7 +270,7 @@ If a venue is architecturally inaccessible, it is vital that this information is
 
 ### Printed Matter
 
-When designing publications, brochures or other printed matter, it is important to consider the access needs of readers. Fonts should be between 16 - 18 points, san serif, well spaced, and high contrast colours. In addition to using high contrast colours, when designing opportunities it’s also essential to consider the needs of colour blind people. You can check what colours are colour blind friendly on [Colouring for Colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
+When designing publications, brochures or other printed matter, it is important to consider the access needs of readers. Fonts should be between 16 - 18 points, sans serif, well spaced, and high contrast colours. In addition to using high contrast colours, when designing opportunities it’s also essential to consider the needs of colour blind people. You can check what colours are colour blind friendly on [Colouring for Colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
 
 The average reading age of someone in the UK is 9 years old so it is valuable to consider what language is accessible to most people when writing texts.
 

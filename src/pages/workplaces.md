@@ -15,7 +15,7 @@ There is a balance to strike here, as access work requires additional labour tha
 
 ### Reasonable Adjustments and Access Check-In’s
 
-The first step is to have a conversation with all workers about their access needs, and make a plan agreed by both parties on how to make workplace accessible. The reasonable adjustments process was detailed in the Planning section, and is where a manager should then make a plan of how to accommodate access needs including adaptations to the workplace, access equipment and software, flexible working hours or the ability to work from home.
+The first step is to have a conversation with all workers about their access needs, and make a plan agreed by both parties on how to make the workplace accessible. The reasonable adjustments process was detailed in the Planning section, and is where a manager should then make a plan of how to accommodate access needs including adaptations to the workplace, access equipment and software, flexible working hours or the ability to work from home.
 
 As a legal requirement, the reasonable adjustment process should be part of an overall culture of discussing access openly. This can be supported by managers holding access check-ins during 1:1’s and quarterly reviews with staff. Access needs often fluctuate and change over time, and the adjustments and the workers needs will change with that. The reasonable adjustments process should therefore only be the beginning of the access conversation, which is left open throughout the workers time at an organisation.
 
@@ -34,7 +34,7 @@ Pay, conditions and worker solidarity are essential to creating accessible workp
 - Joining a union can provide the official support needed to advocate for workers and disability rights in the workplace, before or during a legal breach.
 - Permanent contracts with good conditions provide the stability that all workers require, especially disabled workers who have to plan long-term healthcare commitments.
 - Disabled people often face higher costs of living then non-disabled people, paying for equipment, care and accessible housing. Pay and remuneration should be commensurate with these costs.
-- You can find more information on joining a union as an artist at [Artists’ Union England](https://www.artistsunionengland.org.uk/), [Scottish Artists Union](https://www.artistsunion.scot/), and [Praxis Union Artists Union Ireland](https://www.praxisunion.ie/). If you are a museum or gallery worker, you can find information on unionising at [Prospect](https://prospect.org.uk/) and [PSC](https://www.pcs.org.uk/) in the UK and the [Fórsa](https://www.forsa.ie/) in Ireland
+- You can find more information on joining a union as an artist at [Artists’ Union England](https://www.artistsunionengland.org.uk/), [Scottish Artists Union](https://www.artistsunion.scot/), and [Praxis Union Artists Union Ireland](https://www.praxisunion.ie/). If you are a museum or gallery worker, you can find information on unionising at [Prospect](https://prospect.org.uk/) and [PSC](https://www.pcs.org.uk/) in the UK and  [Fórsa](https://www.forsa.ie/) in Ireland
 
 
 
@@ -49,7 +49,7 @@ Workplaces can often be inaccessible in how much work is expected of workers, th
 
 ### Recruitment
 
-An effective way of creating an accessible workplace is hiring a representative workplace, including disabled people of diverse lived experiences. Disabled people face numerous barriers in accessing work, which can be addressed through a number of recruitment policies:
+An effective way of creating an accessible workplace is hiring a representative workforce, including disabled people of diverse lived experiences. Disabled people face numerous barriers in accessing work, which can be addressed through a number of recruitment policies:
 
 
 

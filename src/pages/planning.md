@@ -57,7 +57,7 @@ Once you’ve gathered the access needs of the team and stakeholders involved yo
 - What are everyone’s access needs?
 - What production schedules are realistic and accessible for everyone?
 - Has anyone flagged any potential flares that may require flexible schedules/deadlines?
-- What staff is needed for this project, what is their capacity and does anyone have leave coming up?
+- What staff are needed for this project, what is their capacity and does anyone have leave coming up?
 - Do the artists or staff need support workers?
 - Do the artists or staff need equipment or software to do their job?
 - What does the artwork need to be made accessible? For example: captioning, audio description, seating, a quiet room, touch tours, relaxed viewing etc.
@@ -101,17 +101,12 @@ You may also choose to fundraise for these additional costs, or a combination of
 
 Access centred planning must be consistent as disabled artists, audiences and staff rely on their access needs being met. It may take you some time to implement these policies and use these tools, but it is important that once you do begin to reduce an access barrier, you continue to do so consistently.
   
-If you start using captions on films; all films must be captioned.  
-  
-If you work with support workers, you should continue to do so.
-  
-If a website is accessible, all future websites and content must stay accessible.
-  
-If a commitment has been made that all venues will be step free, all venues must be step free.
-  
-If you implement flexible working and working from home policies, they must stay in place.
-  
-Disabled artists, audience and staff rely on consistency. It is okay to learn as you grow, and learn from mistakes, but access cannot be used tokenistically.
+- If you start using captions on films; all films must be captioned.  
+- If you work with support workers, you should continue to do so.
+- If a website is accessible, all future websites and content must stay accessible.
+- If a commitment has been made that all venues will be step free, all venues must be step free.
+- If you implement flexible working and working from home policies, they must stay in place.
+- Disabled artists, audience and staff rely on consistency. It is okay to learn as you grow, and learn from mistakes, but access cannot be used tokenistically.
 
 
 ### Opportunities
@@ -120,11 +115,11 @@ If a project includes sharing opportunities such as jobs, funding, residencies, 
 
 #### Web Accessibility
 
-Web accessibility is a set of standards that ensure a website is accessible to use for people with visual, motor/mobility, auditory, seizures and cognitive/intellectual disabilities. It is a robust set of standards that can be reviewed in full on [W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/).You can see examples of accessible websites on:
+Web accessibility is a set of standards that ensure a website is accessible to use for people with visual, motor/mobility, auditory, seizure and cognitive/intellectual disabilities. It is a robust set of standards that can be reviewed in full on [W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/).You can see examples of accessible websites on:
 - [NHS](https://www.nhs.uk/)
 - [GOV.UK](https://www.gov.uk/)
 - [Barbican](https://www.barbican.org.uk/)
-- Access Toolkit for Artworkers
+- [Access Toolkit for Artworkers](htttps://www.accesstoolkit.art)
 
 When designing a website it is advisable that the designer you are working with has experience in accessible web design or is familiar with web accessibility standards.
 
@@ -147,11 +142,11 @@ You can check the readability of a text using [Readable](https://readable.com/).
 
 All images on a webpage or online documents should contain image descriptions / alt text. An image description is a written caption that describes the essential information in an image, and can be read by screen readers. This should be used on websites and on social media posts.
 
-Large Text / Plain: If a website doesn’t meet web accessibility standards you can include a number of downloadable documents that are screen reader compatible and accessible to those with low vision or are visually impaired. This includes Large and Plain text versions. A large text is a document for low vision people in san serif size 18 font, minimum 1.5 spacing, using bold text, asterisks, or dashes to emphasise a section of text and should contain both upper and lower case letters.
+Large Text: If a website doesn’t meet web accessibility standards you can include a number of downloadable documents that are screen reader compatible and accessible to those with low vision. This includes Large and Plain text versions. A large text is a document for low vision people in sans serif size 18 font, minimum 1.5 spacing, using bold text, asterisks, or dashes to emphasise a section of text and should contain both upper and lower case letters.
 
 #### Easy Read
 
-An easy read document is a document that is easier to understand, using short jargon free sentences, larger font and images/symbols. An easy read document should be in a san serif size 14 font, use recognisable images and be in PDF format that can be downloaded. Easy read documents are designed for people with intellectual and learning disabilities but are useful for people who find reading difficult, have memory issues, and English isn’t their first language.
+An easy read document is a document that is easier to understand, using short jargon free sentences, larger font and images or symbols. An easy read document should be in a sans serif size 14 font, use recognisable images and be in PDF format that can be downloaded. Easy read documents are designed for people with intellectual and learning disabilities but are useful for people who find reading difficult, have memory issues, and English isn’t their first language.
 
 #### Audio Version
 
