@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23ad340f98ef4fccdba04e8258f157737c7bd0ae300418a436a04ee7cf93aabf
-size 332
+---
+layout: base.njk
+---
+
+<nav id="home-nav" aria-label="Pages">
+    <ul>
+        {% for page in collections.pages %}
+        <li>
+            <h2><a href="{{ page.url }}">
+                {{ page.data.title }}
+            </a></h2>
+            <p>{{ page.data.blurb }}</p>
+        </li>
+        {%- endfor %}
+    </ul>
+</nav>
