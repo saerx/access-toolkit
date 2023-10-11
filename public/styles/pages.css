@@ -24,3 +24,7 @@ main svg {
     --svg-fill: var(--color);
     height: 16rem;
 }
+
+h1 {
+    text-align: unset;
+}

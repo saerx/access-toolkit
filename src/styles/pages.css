@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0742cb187eb958fff993196c4248ff6d5c07521616554a62925f12334907e1a2
-size 364
+body {
+    --background-color: #fff;
+}
+
+
+main {
+    --background-color: #fff;
+    --color: var(--background-color);
+}
+
+main ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: var(--padding-sm);
+    gap: var(--layout-gap-sm);
+}
+
+
+main a:visited {
+    color: var(--visited-color);
+}
+
+main svg { 
+    --svg-fill: var(--color);
+    height: 16rem;
+}
+
+h1 {
+    text-align: unset;
+}

@@ -69,6 +69,10 @@ nav li{
     --link-color: var(--snowy-mint);
 }
 
+h1 { 
+    text-align: center;
+}
+
 
 
 /* #home-nav li::after {
@@ -132,8 +136,6 @@ footer {
     bottom:0px;
     width:100%;
 }
-
-
 
 /* :is(body, .block-flow) > * + * {
     margin-block-start: var(--block-flow-sm);
