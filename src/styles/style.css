@@ -101,7 +101,7 @@ h1 {
 
 #logos {
     display: flex;
-    background: white;
+    background: var(--snowy-mint);
     border: 0.7rem solid var(--snowy-mint);
     border-radius: 1rem;
     padding: 0.5rem;
