@@ -179,9 +179,14 @@ With COVID policies in most public spaces having been lifted, older, chronically
 Alternatively, regular masked events should be programmed, to provide safe and accessible opportunities to experience a programme.
 
 
-### Online Events and Live Streaming
+### Mobility
 
-Many people cannot attend in person events for multiple reasons such as disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as [Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate access ford/Deaf and hard of hearing?
+For new builds or those renovating their sites, venues should follow current legal building standards, which you can find on the[Irish Wheelchair Association built environment standards](https://www.iwa.ie/access-guidelines/great-outdoors-access-guidelines/7-access-to-the-built-environment/).
+
+For buildings that are architecturally inaccessible, there are a number of provisions that can be made to reduce mobility barriers, short of full renovations. This can include installing ramps, handrails and providing mobility devices. Also ensure that there is 1.5m space between objects for a wheelchair to navigate, especially in exhibitions. Staff can also provide assistance when requested and given consent to do so.
+
+If a venue is architecturally inaccessible, it is vital that this information is included in an access statement so audiences can make an informed decision about their visit and the access barriers they face.
+
 
 ### Navilens
 
@@ -189,11 +194,24 @@ Many people cannot attend in person events for multiple reasons such as disabili
 
 Learn more about Navilens on Art and Disability Ireland’s Webinar on [Access Technology for Audio Description & Captioning: Supporting an Accessible Arts Programme](https://www.youtube.com/watch?v=K6JVsau4zw0). 
 
+
+### Online Events and Live Streaming
+
+Many people cannot attend in person events for multiple reasons such as disability, access barriers, geography, cost or personal responsibilities. All public events should be available online or be live streamed, expanding the reach of the event and reducing barriers to participation. This can be done via online meeting services such as [Zoom](https://zoom.us/)’s Webinar feature or live streaming services. Online meeting software often includes captioning services which facilitate access ford/Deaf and hard of hearing?
+
+
 ### Perfume / Chemical Sensitivity
 
 Those with chemical sensitivities are highly sensitive to petroleum based products and fragrances found in cleaning products, perfumes, detergents and building products. These chemicals or smells can induce migraines, asthma, cognitive impairments and allergic reactions, and harm many people with chronic illness.
 
 Organisations can request audiences to attend an event or venue fragrance free. Organisations can also refrain from using scented products and clean regularly with non-toxic products. Smoking areas should be positioned well away from doors and windows.
+
+
+### Printed Matter
+
+When designing publications, brochures or other printed matter, it is important to consider the access needs of readers. Fonts should be between 16 - 18 points, sans serif, well spaced, and high contrast colours. In addition to using high contrast colours, when designing opportunities it’s also essential to consider the needs of colour blind people. You can check what colours are colour blind friendly on [Colouring for Colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
+
+The average reading age of someone in the UK is 9 years old so it is valuable to consider what language is accessible to most people when writing texts.
 
 
 ### Quiet / Sensory Rooms
@@ -258,22 +276,6 @@ Many people face economic barriers when accessing arts and culture and artworker
 Some people are accompanied by a support worker or a personal assistant. A support worker is someone that assists disabled people to reduce access barriers in everyday life, education, work, culture or care. A support worker should be supported in their visit and provided with free tickets to ticketed events.
 
 Service animals are trained animals that support a wide range of disabled people. Service animals should be welcomed into venues and accommodated. If another audience member has animal allergies, a member of staff should mediate the situation where both audience members can use different parts of the venue.
-
-
-### Mobility
-
-For new builds or those renovating their sites, venues should follow current legal building standards, which you can find on the[Irish Wheelchair Association built environment standards](https://www.iwa.ie/access-guidelines/great-outdoors-access-guidelines/7-access-to-the-built-environment/).
-
-For buildings that are architecturally inaccessible, there are a number of provisions that can be made to reduce mobility barriers, short of full renovations. This can include installing ramps, handrails and providing mobility devices. Also ensure that there is 1.5m space between objects for a wheelchair to navigate, especially in exhibitions. Staff can also provide assistance when requested and given consent to do so.
-
-If a venue is architecturally inaccessible, it is vital that this information is included in an access statement so audiences can make an informed decision about their visit and the access barriers they face.
-
-
-### Printed Matter
-
-When designing publications, brochures or other printed matter, it is important to consider the access needs of readers. Fonts should be between 16 - 18 points, sans serif, well spaced, and high contrast colours. In addition to using high contrast colours, when designing opportunities it’s also essential to consider the needs of colour blind people. You can check what colours are colour blind friendly on [Colouring for Colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
-
-The average reading age of someone in the UK is 9 years old so it is valuable to consider what language is accessible to most people when writing texts.
 
 
 ### Touch Tours
