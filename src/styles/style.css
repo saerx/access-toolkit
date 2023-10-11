@@ -119,23 +119,12 @@ h1 {
     gap: var(--layout-gap-sm);
 }
 
-/* footer {
+footer {
     position: sticky;
     top: 100vh;
-    padding-left: var(--padding-sm);
-    display: grid;
-    grid-template-columns: repeat( 2, 1fr);
-    justify-content: space-between;
-    padding-right: var(--padding-sm);
-    justify-items: end;
-} */
-
-footer {
-    position:fixed;
-    left:0px;
-    bottom:0px;
-    width:100%;
+    
 }
+
 
 /* :is(body, .block-flow) > * + * {
     margin-block-start: var(--block-flow-sm);
