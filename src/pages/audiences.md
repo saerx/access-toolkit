@@ -2,6 +2,7 @@
 title: Audience/Display
 blurb: Explore the access tools you can use to make artworks, exhibitions and programmes accessible for audiences, from closed captions, audio descriptions, seating, sign language interpretation, access statement and much more. 
 audio: "audience"
+word_count: "2994"
 date: 2023-06-05
 ---
 

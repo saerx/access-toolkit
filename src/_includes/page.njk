@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2017dbbd88aa7f1908f9977eb1461e83aad75da89b397f053e6c7527af04b250
-size 530
+---
+layout: base.njk
+css: /styles/pages.css
+---
+<h1 id="main-heading">{{title}}</h1>
+<div class="main-content">
+<aside>
+    <h2 id="audio-version">Audio</h2>
+    <audio 
+        id="audio1"
+        data-able-player preload="auto" 
+        playsinline
+        data-speed-icons="animals">
+        <source type="audio/ogg" src="/assets/audio/{{audio}}.ogg"/>
+        <source type="audio/mpeg" src="/assets/audio/{{audio}}.mp3"/>
+    </audio>
+</aside>
+<article>
+    <h2 id="text-version">Text</h2>
+    {{ content | safe}}  
+</article>

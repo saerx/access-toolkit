@@ -2,6 +2,7 @@
 title: Planning
 blurb: "Learn how to centre access throughout planning including how to gather access needs, sharing opportunities, financial planning, fundraising and how to manage access budgets."
 audio: "planning"
+word_count: "2098"
 date: 2023-06-02
 ---
 ### Table of Contents
