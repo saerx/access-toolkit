@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:662c004a89be1e4863520960004cd6edb5cf9dc99551d84ba52472cf3e0961d7
-size 1651
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <link rel="stylesheet" href="/styles/normalize/normalize.css">
+    <link rel="stylesheet" href="/styles/normalize/the-new-css-reset.css">
+    <link rel="stylesheet" href="/styles/variables.css">
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible">
+    {% if css %}
+        <link rel="stylesheet" href="{{css}}" />
+    {% endif %}
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#420DFF">
+    <!-- Dependencies -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/build/ableplayer.min.css" type="text/css"/>
+
+    <!-- JavaScript -->
+    <script src="/build/ableplayer.min.js"></script>
+    <title>{{ title }} – Access Toolkit for Arts Workers</title>
+</head>
+<body>
+    {% include "header.njk" %}
+    
+    <main>
+        {{ content | safe }}
+    </main>
+
+    {% include "footer.njk" %}
+
+</body>
+</html>
