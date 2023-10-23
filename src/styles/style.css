@@ -105,8 +105,10 @@ h1 {
     border: 0.7rem solid var(--snowy-mint);
     border-radius: 1rem;
     padding: 0.5rem;
-    width: max-content;
+    width: fit-content;
     gap: var(--layout-gap-sm);
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #logos img { 
