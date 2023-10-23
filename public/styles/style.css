@@ -75,14 +75,14 @@ h1 {
 
 
 
-/* #home-nav li::after {
+#home-nav li a::after {
     content: '';    
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-} */
+}
 
 #home-nav a {
     text-decoration: none;
@@ -171,8 +171,10 @@ a {
 }
 
 
-a:not(#logo):focus,
-a:not(#logo):active {
+#main-nav a:not(#logo):focus,
+#main-nav a:not(#logo):active,
+.main-content a:focus,
+.main-content a:active {
     background: var(--link-color);
     color: var(--color);
     outline: 0.1875rem solid var(--link-color);
