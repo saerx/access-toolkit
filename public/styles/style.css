@@ -213,6 +213,7 @@ main a:focus, main a:active {
 #logo, #logo a {
     font-size: var(--subheading-2-size);
     text-decoration: none;
+    text-align: center;
 } 
 
 #logo:focus,
