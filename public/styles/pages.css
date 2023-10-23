@@ -21,6 +21,7 @@ main a:visited {
 }
 
 main svg { 
+    --color: black;
     --svg-fill: var(--color);
     height: 16rem;
 }
