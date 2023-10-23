@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:967db27b0266608dc1e14cb58dfab5b62d3b217da3857af3331a2a54475cce6f
-size 49
+{
+    "layout": "page.njk",
+    "tags": "pages"
+}

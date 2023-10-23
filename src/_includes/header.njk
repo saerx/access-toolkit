@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b09513b4dfa9d7b4fa890630e20e94c914f9a488d9878d15e4b23c509eb75912
-size 1505
+
+{% set currentUrl %}{{ page.url }}{% endset %}
+
+<script> 
+    toggleMenu = () => {
+    const menuButton = document.getElementById("menu-button");
+    let expanded = menuButton.getAttribute("aria-expanded");
+
+    menuButton.setAttribute('aria-expanded', !expanded);
+    let menu = menuButton.nextElementSibling;
+    menu.className === 'menu-open' ? menu.classList.remove('menu-open') : menu.classList.add('menu-open');
+
+};
+</script>
+<a href="#main-heading" class="sr-only sr-only-focusable" id="skip-link">Skip to main content</a>
+<header>
+    <h2><a {% if currentUrl === '/' %}aria-current="page"{% endif %} href="/" id="logo">Access Toolkit for Arts Workers</a></h2>
+
+    <nav id="main-nav" aria-label="Main navigation">
+        <button id="menu-button" aria-expanded="false" onclick="toggleMenu()">
+            <svg viewBox="0 0 100 80" width="40" height="40" aria-hidden="true">
+                <rect width="100" height="10"></rect>
+                <rect y="30" width="100" height="10"></rect>
+                <rect y="60" width="100" height="10"></rect>
+              </svg>
+            <span>Menu</span>      
+            
+        </button>
+        <ul role="list">
+            {% for page in collections.pages %}
+            <li>
+            <a 
+                {% if currentUrl === page.url %}aria-current="page"{% endif %} 
+                href="{{ page.url }}">
+                {{ page.data.title }}
+            </a>
+            </li>
+            {%- endfor %}
+        </ul>
+    </nav>
+</header>
